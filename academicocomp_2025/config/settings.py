@@ -73,7 +73,7 @@ DATABASES = {
         'USER': 'postgres',      # Nome de usuário do banco de dados
         'PASSWORD': '123456',    # Senha do banco de dados
         'HOST': 'localhost',     # Servidor do banco de dados
-        'PORT': '5433',          # Porta padrão do PostgreSQL
+        'PORT': '5432',          # Porta padrão do PostgreSQL
     }
 }
 
